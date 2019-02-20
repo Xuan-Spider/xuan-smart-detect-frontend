@@ -1,0 +1,1 @@
+# xuan-smart-detect-frontend
